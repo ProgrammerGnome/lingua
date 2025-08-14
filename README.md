@@ -3,6 +3,8 @@
 This application is a real-time speech-to-text and translation tool that uses the **OpenAI Whisper** model for continuous audio stream processing.  
 It can transcribe and translate **English ⇄ Hungarian** conversations in near real time.
 
+#### Designed as an AUR package for Arch Linux.
+
 ## Key Features
 - **Real-time (streaming) speech recognition** with GPU acceleration (CUDA) when available.
 - **Bidirectional translation** (EN ⇄ HU) using Whisper or Google Translate as fallback.
